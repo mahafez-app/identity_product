@@ -1,6 +1,6 @@
 name: identity_product
 description: Mahafez identity product flows and UI.
-version: 1.0.0
+version: 1.0.1
 publish_to: none
 
 environment:
