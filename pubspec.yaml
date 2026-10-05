@@ -23,7 +23,9 @@ dependencies:
       url: https://github.com/mahafez-app/mahafez_design_system.git
       ref: v1.0.2
   identity_service:
-    path: ../identity_service
+    git:
+      url: https://github.com/mahafez-app/identity_service.git
+      ref: v1.0.0
 
 dev_dependencies:
   flutter_test:
