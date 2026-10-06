@@ -281,11 +281,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.0"
-      resolved-ref: f1fc9f13539d87a6c8aede6a04279be99c52556f
+      ref: "v1.1.0"
+      resolved-ref: "738ee4dcdf67481afd7d0d45cf93979736244bb2"
       url: "https://github.com/mahafez-app/identity_service.git"
     source: git
-    version: "1.0.0"
+    version: "1.1.0"
   intl:
     dependency: transitive
     description:
