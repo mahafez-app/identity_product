@@ -1,6 +1,6 @@
 name: identity_product
 description: Mahafez identity product flows and UI.
-version: 1.0.1
+version: 1.0.2
 publish_to: none
 
 environment:
@@ -25,7 +25,7 @@ dependencies:
   identity_service:
     git:
       url: https://github.com/mahafez-app/identity_service.git
-      ref: v1.0.0
+      ref: v1.1.0
 
 dev_dependencies:
   flutter_test:
